@@ -18,8 +18,8 @@ Also updated my Github with customized public repository pins and worked on my r
 
 # link to deployed application
 
-[repository](https://github.com/Limnation/02-week-h2)
-[published](https://limnation.github.io/02-week-h2/)
+[repository](https://github.com/Limnation/07-portfolio)
+[published](https://limnation.github.io/07-portfolio/)
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
