@@ -4,6 +4,8 @@
 
 This main things I am trying to accomplish with this site is to make a portfolio with a modern/abstract fractal design adding some fun personality. I also wanted wanted to make it Responsive with metaquerys while also pushing my boundries by tieing in things I have already learned with new information I have learned from the class while attempting to finish in the time constraint.
 
+Also updated my Github with customized public repository pins and worked on my resume and linkedIn.
+
 ## screenshot
 
 ![screenshot1](./pdf/1.JPG)
@@ -160,4 +162,5 @@ So if you're going to be looking for a job at the end of your boot camp, go ahea
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
 # 07-portfolio
