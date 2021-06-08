@@ -127,16 +127,16 @@ function onclickPtItem8() {
   window.open("https://zreggert.github.io/get-movie-information/");
 }
 // 9
-function onHoverPtItem8On() {
+function onHoverPtItem9On() {
   document.getElementById("devices").style.backgroundImage =
     "url('./images/protfolio/p2Devices.png')";
 }
 
-function onHoverPtItem8Off() {
+function onHoverPtItem9Off() {
   document.getElementById("devices").style.backgroundImage =
     "url('./images/protfolio/devices.png')";
 }
 
-function onclickPtItem8() {
+function onclickPtItem9() {
   window.open("https://limited-footwear.herokuapp.com/");
 }

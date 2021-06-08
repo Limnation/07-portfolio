@@ -289,6 +289,10 @@ a:hover {
   grid-area: 10 / 4 / span 2 / span 4;
 }
 
+.portfolio-item9 {
+  grid-area: 13 / 3 / span 2 / span 4;
+}
+
 .companies {
   width: 100%;
 }
@@ -652,6 +656,10 @@ a:hover {
     grid-area: 7 / 3 / span 2 / span 4;
   }
 
+  .portfolio-item9 {
+    grid-area: 7 / 5 / span 2 / span 4;
+  }
+
   .companies {
     width: 100%;
   }
@@ -716,7 +724,7 @@ a:hover {
 
   /* protfolio */
   .portfolio {
-    min-height: 820px;
+    min-height: 920px;
   }
 
   .contactMagnoliaImage {
@@ -772,6 +780,10 @@ a:hover {
 
   .portfolio-item8 {
     grid-area: 10 / 4 / span 2 / span 4;
+  }
+
+  .portfolio-item9 {
+    grid-area: 13 / 3 / span 2 / span 4;
   }
 
   .companies {
@@ -910,6 +922,10 @@ a:hover {
 
   .portfolio-item8 {
     grid-area: 7 / 3 / span 2 / span 4;
+  }
+
+  .portfolio-item9 {
+    grid-area: 7 / 5 / span 2 / span 4;
   }
 }
 /* Medium devices (Desktops, 1920px and up) */
