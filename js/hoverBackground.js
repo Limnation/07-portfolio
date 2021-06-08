@@ -1,12 +1,14 @@
 // navBar background image changing
 function onHover() {
-  document.getElementById("intro").style.backgroundImage = "url('./images/header/heroImage2.png')";
+  document.getElementById("intro").style.backgroundImage =
+    "url('./images/header/heroImage2.png')";
 
   document.getElementById("heroText").style.display = "none";
 }
 
 function offHover() {
-  document.getElementById("intro").style.backgroundImage = "url('./images/header/heroImage.png')";
+  document.getElementById("intro").style.backgroundImage =
+    "url('./images/header/heroImage.png')";
 
   document.getElementById("heroText").style.display = "inline-block";
 }
@@ -14,11 +16,13 @@ function offHover() {
 // portfolio companies image changin
 // 1
 function onHoverPtItem1On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/amgDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/amgDevices.png')";
 }
 
 function onHoverPtItem1Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem1() {
@@ -26,11 +30,13 @@ function onclickPtItem1() {
 }
 // 2
 function onHoverPtItem2On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/cigDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/cigDevices.png')";
 }
 
 function onHoverPtItem2Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem2() {
@@ -38,11 +44,13 @@ function onclickPtItem2() {
 }
 // 3
 function onHoverPtItem3On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/ehrDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/ehrDevices.png')";
 }
 
 function onHoverPtItem3Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem3() {
@@ -50,11 +58,13 @@ function onclickPtItem3() {
 }
 // 4
 function onHoverPtItem4On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/agvDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/agvDevices.png')";
 }
 
 function onHoverPtItem4Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem4() {
@@ -62,11 +72,13 @@ function onclickPtItem4() {
 }
 // 5
 function onHoverPtItem5On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/omlDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/omlDevices.png')";
 }
 
 function onHoverPtItem5Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem5() {
@@ -74,11 +86,13 @@ function onclickPtItem5() {
 }
 // 6
 function onHoverPtItem6On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/eciDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/eciDevices.png')";
 }
 
 function onHoverPtItem6Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem6() {
@@ -86,11 +100,13 @@ function onclickPtItem6() {
 }
 // 7
 function onHoverPtItem7On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/sdcDevices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/sdcDevices.png')";
 }
 
 function onHoverPtItem7Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem7() {
@@ -98,13 +114,29 @@ function onclickPtItem7() {
 }
 // 8
 function onHoverPtItem8On() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/p1Devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/p1Devices.png')";
 }
 
 function onHoverPtItem8Off() {
-  document.getElementById("devices").style.backgroundImage = "url('./images/protfolio/devices.png')";
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
 }
 
 function onclickPtItem8() {
   window.open("https://zreggert.github.io/get-movie-information/");
+}
+// 9
+function onHoverPtItem8On() {
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/p2Devices.png')";
+}
+
+function onHoverPtItem8Off() {
+  document.getElementById("devices").style.backgroundImage =
+    "url('./images/protfolio/devices.png')";
+}
+
+function onclickPtItem8() {
+  window.open("https://limited-footwear.herokuapp.com/");
 }
